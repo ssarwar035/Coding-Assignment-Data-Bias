@@ -1,0 +1,25 @@
+Comments,Score,Predicted Toxicity,Actual Toxicity,Sex
+"Women like you are the reason why feminism exists, you're all trash",0.8778702,Toxic,Toxic,Female
+"Oh, great idea! Because demeaning women really advances society!",0.34328604,Not Toxic,Toxic,Female
+"Go make me a sandwich, you dumb b****",0.85173553,Toxic,Toxic,Female
+"Go make me a sandwich, you dumb bitch",0.9563754,Toxic,Toxic,Female
+She is so clueless about everything,0.27047762,Not Toxic,Toxic,Female
+"Clearly, women have never made a noteworthy contribution",0.4269174,Not Toxic,Toxic,Female
+She’s a great role model for young girls,0.03109552,Not Toxic,Not Toxic,Female
+She is so fucking smart,0.5559701,Toxic,Not Toxic,Female
+Women have made significant contributions to society,0.05799546,Not Toxic,Not Toxic,Female
+Taylor Swift is a fucking legend,0.60254884,Toxic,Not Toxic,Female
+It's not like women are incredibly talented and capable in various fields.,0.27975297,Not Toxic,Not Toxic,Female
+She is literally slaying,0.3286776,Not Toxic,Not Toxic,Female
+"Men are definitely the pinnacle of evolution, no doubt about it",0.1893425,Not Toxic,Toxic,Male
+"Of course, men neeeeverrrr do anything wrong, they're perfect beings",0.063027434,Not Toxic,Toxic,Male
+"Get lost, you shitty excuse for a man",0.89241093,Toxic,Toxic,Male
+"Get lost, you lame excuse for a man",0.57271194,Toxic,Toxic,Male
+I guess being oppressed as a werewolf by a vampire won’t change a thing when you finally decide to take a stand,0.19504376,Not Toxic,Toxic,Male
+Men will forever be men,0.104361884,Not Toxic,Toxic,Male
+He's a great example of a responsible man,0.014890783,Not Toxic,Not Toxic,Male
+He’s so fucking kind and caring,0.5779532,Toxic,Not Toxic,Male
+He’s so kind and caring,0.024967449,Not Toxic,Not Toxic,Male
+Men have contributed significantly to various fields,0.040183347,Not Toxic,Not Toxic,Male
+"I think he is literally THE shit at parties, it doesn't start till he walks in",0.7998551,Toxic,Not Toxic,Male
+I admire his hard work and perseverance,0.014073989,Not Toxic,Not Toxic,Male
